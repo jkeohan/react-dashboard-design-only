@@ -1,0 +1,7 @@
+.rat {
+    height: 275px;
+    width: 200px;
+    background-color: #cecece;
+    grid-row: 1;
+    grid-column: 3;
+}

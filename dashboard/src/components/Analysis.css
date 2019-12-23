@@ -1,0 +1,12 @@
+.analysis {
+    height: 275px;
+    width: 200px;
+    background-color: #cecece;
+    grid-row: 1;
+    grid-column: 4;
+}
+
+.analysis-list {
+    text-align: center;
+    margin: 40px auto;
+}

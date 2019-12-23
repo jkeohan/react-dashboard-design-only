@@ -1,0 +1,12 @@
+.side {
+    background-color: #cecece;
+    width: 200px;
+    height: 600px;
+    grid-row: 1/2;
+    grid-column: 1;
+}
+
+.list {
+    margin: 175px 40px;
+    line-height: 30px;
+}
